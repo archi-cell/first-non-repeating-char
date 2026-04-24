@@ -1,0 +1,17 @@
+{
+  "name": "ai-ui-testing-system",
+  "version": "1.0.0",
+  "description": "AI-powered automated UI testing system",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "npx playwright test"
+  },
+  "dependencies": {
+    "pixelmatch": "^5.3.0",
+    "pngjs": "^7.0.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.40.0"
+  }
+}
