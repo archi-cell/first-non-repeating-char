@@ -1,3 +1,66 @@
+#   QUESTION : Problem Statement
+
+AI-Powered Automated UI Testing and Bug Detection System
+Background
+
+User interfaces (UI) are a critical part of modern software applications, directly impacting user experience and product quality. As applications grow in complexity and undergo frequent updates, ensuring consistent UI functionality becomes increasingly challenging.
+
+Traditional testing approaches struggle to keep up with rapid development cycles.
+
+Objective
+
+Design and develop an AI-based system that can:
+
+Automatically explore and interact with user interfaces
+
+Simulate real user behavior and interactions
+
+Detect functional and visual bugs
+
+Adapt to UI changes without requiring frequent reconfiguration
+
+Key Requirements
+
+Your solution should:
+
+🧠 Intelligently navigate UI flows and scenarios
+
+🔍 Detect both functional issues and visual anomalies
+
+🔄 Adapt to frequent UI updates dynamically
+
+⚡ Improve test coverage and efficiency
+
+📊 Provide clear reports and insights on detected bugs
+
+Problem Context
+
+UI testing today faces several limitations:
+
+🧑‍💻 Manual testing is time-consuming and repetitive
+
+🔁 Scripted automation requires constant maintenance when UI changes
+
+🧩 Difficulty in covering edge cases and unexpected user behaviors
+
+🎯 Limited ability to detect visual inconsistencies or subtle bugs
+
+Additional challenges include:
+
+🔄 Frequent UI updates breaking existing test scripts
+
+📉 Incomplete test coverage due to time and resource constraints
+
+⚠️ Inability to adapt dynamically to new UI flows
+
+As a result:
+
+🐞 Bugs reach production environments
+
+📉 User experience is negatively impacted
+
+⏱️ Testing cycles slow down development
+
 # AI-Powered Automated UI Testing and Bug Detection System
 
 ## 📌 Problem Statement
