@@ -1,4 +1,4 @@
-
+  QUESTION : Build a function that returns the first non-repeating character in a string.  
 # First Non-Repeating Character
 
 ## Problem
