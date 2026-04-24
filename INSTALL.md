@@ -1,11 +1,11 @@
 # How to Run
 
 ## Requirements
-- Java installed
+- Java installed 
 
 ## Steps
 1. Compile:
-   javac FirstNonRepeating.java
+   javac main.java
 
 2. Run:
-   java FirstNonRepeating
+   java main
